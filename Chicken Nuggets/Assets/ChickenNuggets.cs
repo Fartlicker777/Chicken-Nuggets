@@ -56,8 +56,9 @@ public class ChickenNuggets : MonoBehaviour {
         {
           new Dictionary<string, object>
           {
-            { "Key", "Solve Sound" },
-            { "Text", "Will toggle the solve/strike sound. Defaults to on."}
+            { "Key", "DoesSound" },
+            { "Text", "Solve Sound" },
+            { "Description", "Toggle the solve/strike sound. Defaults to on."}
           }
         }}
       }

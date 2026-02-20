@@ -25,7 +25,7 @@ MonoBehaviour:
     Manual can be found at ktane.timwi.de or in the manuals folder of your game.
 
 
-    If there are any bugs, contact Fartlicker777#9169 on Discord.'
+    If there are any bugs, contact Fartlicker777 or VFlyer on Discord.'
   version: no
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 3dd4fd6cf9c5d2240b76c8cdd8ee760d, type: 3}
